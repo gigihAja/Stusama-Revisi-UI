@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177666494702",
+    "project_id": "stusama-revisi-ui",
+    "storage_bucket": "stusama-revisi-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177666494702:android:915b31df7849af186ae3ff",
+        "android_client_info": {
+          "package_name": "com.example.stusama_revisi_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJkqAfkUnIe_vn8EStk4cFxj2lSwXRO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
